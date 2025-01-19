@@ -1,4 +1,4 @@
-## Hey, I'm Henrique! 👋
+# Hey, I'm Henrique! 👋
 
 
 💻 Software Developer 
