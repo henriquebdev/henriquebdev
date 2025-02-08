@@ -3,7 +3,7 @@
 
 💻 Software Developer 
 
-- 🔭 I’m currently working on  JavaScript (React Native | React), Python, Java and SQL (MySQL and Bootstrap).
+- 🔭 I’m currently working on  JavaScript (React Native | React), Java, Python and SQL (MySQL and Bootstrap).
 - 👩🏻‍🎓 Higher education course in TI.
 - 💼 (+3) Experience in systems integration between marketplaces through APIs and process automation.
 - 🎨 Passionate about volunteer projects involving robotics, accessibility, development and electronics.
