@@ -1,13 +1,18 @@
 ## Hey, I'm Henrique! 👋
+Data Scientist | Software Engineer | AI Enthusiast
 
+Passionate about transforming raw data into actionable insights and building automated systems. With a solid foundation in software development and systems integration, I focus on creating data pipelines and machine learning models to solve practical problems.
 
-💻 Software Developer 
+🔭 Currently focusing on: Machine Learning, Statistical Modeling, and Big Data Analytics.
 
-- 🔭 I’m currently working on  JavaScript (React Native | React), Java, Python and SQL (MySQL and Bootstrap).
-- 👩🏻‍🎓 Higher education course in TI.
-- 💼 (+3) Experience in systems integration between marketplaces through APIs and process automation.
-- 🎨 Passionate about volunteer projects involving robotics, accessibility, development and electronics.
+🤖 AI & LLM Experience: 1+ year developing LLM Agents and autonomous workflows. Experienced in designing audit agent flows using n8n and implementing RAG (Retrieval-Augmented Generation) to improve response accuracy and operational efficiency.
+
+🎓 Education: Degree in IT with continuous specialization in Data Science and AI.
+
+💼 Professional Background: 3+ years of experience in process automation and API integrations, bridging the gap between software engineering and data intelligence.
+
+🎨 Interests: Leveraging technology for social impact—specifically in robotics, accessibility, and AI for good.
 
 ## 🔧 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
