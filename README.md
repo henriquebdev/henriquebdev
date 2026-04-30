@@ -11,7 +11,7 @@ Passionate about transforming raw data into actionable insights and building aut
 
 💼 Professional Background: 3+ years of experience in process automation and API integrations, bridging the gap between software engineering and data intelligence.
 
-🎨 Interests: Leveraging technology for social impact—specifically in robotics, accessibility, and AI for good.
+🎨 Interests: I am driven by automating processes that empower people to grow and develop. My goal is to deliver high-level accuracy to users through well-configured LLM Agents, ensuring technology works as a bridge to human potential.
 
 ## 🔧 Tech Stack:
 
